@@ -45,3 +45,6 @@ function fv3() {
     console.log(index);
 }
 fv3()
+
+const ertek = 1000;
+/* constant értéke nem változtatható meg. Láthatósága olyan mint a letnek, tehát blokkszintű, és deklaráláskor rögtön értéket kell adni neki */
