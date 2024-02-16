@@ -33,3 +33,15 @@ function fv2() {
     console.log(index);
 }
 fv2()
+
+
+function fv3() {
+    let index = 0;
+    while (index < 3) {
+        console.log(index);
+        index ++;
+        
+    }
+    console.log(index);
+}
+fv3()
